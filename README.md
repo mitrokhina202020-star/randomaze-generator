@@ -1,5 +1,7 @@
 # Randomaze Generator
 
+![Главный экран](images/экран.png)
+
 Инструмент для генерации рандомайзера учебных проектов, встраиваемого в GetCourse (или любую платформу с поддержкой HTML-блоков).
 
 **Открыть онлайн:** https://mitrokhina202020-star.github.io/randomaze-generator/2026-06-15_randomaze-gen_page.html
